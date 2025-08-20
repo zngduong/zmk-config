@@ -1,0 +1,10 @@
+/*
+ * Copyright (c) 2020 duckyb
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
+#include "zmk-helpers/helper.h"
+#include "zmk-helpers/key-labels/36.h"
+#include "zmk-helpers/key-labels/34.h"
+#include "base.keymap"
