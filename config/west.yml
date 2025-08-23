@@ -42,7 +42,7 @@ manifest:
     - name: zmk-unicode
       remote: urob
       path: modules/zmk/unicode
-    - name: urchin-peripheral-animation
+    - name: hammerbeam-slideshow
       remote: gpeye
       revision: main
 
